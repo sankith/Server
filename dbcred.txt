@@ -1,0 +1,11 @@
+initialdb
+srilaxminarshima
+
+masterusername
+srilaxminarshima
+
+password
+j6Xu7afnXmV9pOsbVcAq
+
+
+postgres
